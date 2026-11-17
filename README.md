@@ -39,7 +39,7 @@ can talk to any past version.
 Three commands:
 
 ```bash
-git clone <your repo url> developmental-lm && cd developmental-lm
+git clone https://github.com/ProgramHamza/gecko.git && cd gecko
 ```
 ```bash
 bash setup.sh
